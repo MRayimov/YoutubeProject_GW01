@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.img{
+    width: 385px;
+    height: 225px;
+    border-radius: 15px;
+}
+
+.img1{
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+}
+
+.ius{
+    position: relative;
+    top: 15px;
+    left: 5px;
+    display: flex;
+}
+
+.oi{
+    position: relative;
+    left: 15px;
+    bottom: 7px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.icon{
+    position: relative;
+    left: 27px;
+    font-size: 22px;
+}
+
+.h1{
+    position: relative;
+    left: 62px;
+    top: 10px;
+    color: rgb(88, 88, 88);
+}
+
+.h2{
+    position: relative;
+    left: 62px;
+    top: 7px;
+    color: rgb(88, 88, 88);
+}
+
+.cr1{
+    display: flex;
+    cursor: pointer;
+}
+
+.hh1{
+    position: relative;
+    left: 17px;
+}
+
+.hh2{
+    position: relative;
+    left: 34px;
+}
+
+.cr2{
+    position: relative;
+    top: 30px;
+    display: flex;
+    cursor: pointer;
+}
+
+.hala{
+    position: relative;
+    left: 15px;
+    top: 45px;
+}
